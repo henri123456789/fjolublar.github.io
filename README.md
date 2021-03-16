@@ -1,6 +1,8 @@
 # fjolublar.github.io
 
-<img align="right" width="600" height="200" src="https://github.com/fjolublar/fjolublar.github.io/blob/master/logo_fjolublar.png?raw=true">
+<p align="right"> 
+<img width="322" height="386" src="https://github.com/fjolublar/fjolublar.github.io/blob/master/logo_fjolublar.png?raw=true">
+</p>
 
 Welcome to my [page](https://fjolublar.github.io) (:
 
