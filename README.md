@@ -1,5 +1,7 @@
 # fjolublar.github.io
 
+<img align="right" width="600" height="200" src="https://github.com/fjolublar/fjolublar.github.io/blob/master/logo_fjolublar.png?raw=true">
+
 Welcome to my [page](https://fjolublar.github.io) (:
 
 This Website serves as a cheat sheet for a multitude of software and other programming tools.
