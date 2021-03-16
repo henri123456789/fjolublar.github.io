@@ -27,7 +27,7 @@ title: 'fjolublar'
 email: indritfejza@gmail.com
 description: 'Welcome to my cheat-sheet site for a multitude of software and other programming tools!'
 permalink: pretty
-logo: "https://avatars.githubusercontent.com/u/57690341?s=460&u=bc54aaf214b5214b8c091ea295e61fca7f23602f&v=4"
+logo: "https://raw.githubusercontent.com/fjolublar/fjolublar.github.io/master/logo_fjolublar.png"
 social: # jekyll-seo-tag > social overrides
   name: Indrit Fejza # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
