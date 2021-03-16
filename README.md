@@ -1,6 +1,6 @@
 # fjolublar.github.io
 
-<p align="right"> 
+<p align="left"> 
 <img width="77" height="92" src="https://raw.githubusercontent.com/fjolublar/fjolublar.github.io/master/assets/logos/logo%40144px.png">
 </p>
 
