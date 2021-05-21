@@ -14,3 +14,5 @@ For more details in the commands and others stuff, it is better to check out the
 I will try to provide all the links to the original creators and where I got the info, as best as I can.
 
 If you find anything wrong please let me know.
+
+Hello!
